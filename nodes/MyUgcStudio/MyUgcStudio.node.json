@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-my-ugc-studio",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Marketing", "Productivity"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://web.myugc.studio/user-profile?open=integrations"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://myugc.studio"
+			}
+		]
+	}
+}
